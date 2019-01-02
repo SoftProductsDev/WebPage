@@ -28,9 +28,9 @@
  #mainNav .navbar-nav>li.nav-item>a.nav-link.active:active,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover
  {color:#fff;background:#2cc4f3}#mainNav.navbar-shrink{padding-top:.5rem;padding-bottom:.5rem}
  #mainNav.navbar-shrink .navbar-brand{font-size:1.5em}}
- header.masthead{padding-top:calc(6rem + 72px);padding-bottom:6rem}header.masthead h1{font-size:3rem;line-height:3rem}
+ header.masthead{padding-top:calc(4rem + 0px);padding-bottom:0rem}header.masthead h1{font-size:3rem;line-height:3rem}
  header.masthead h2{font-size:1.3rem;font-family:Lato}@media (min-width:992px)
- {header.masthead{padding-top:calc(6rem + 106px);padding-bottom:6rem}
+ {header.masthead{padding-top:calc(6rem + 0px);padding-bottom:0rem}
  header.masthead h1{font-size:4.75em;line-height:4rem}
  header.masthead h2{font-size:1.75em}}
  .portfolio{margin-bottom:-15px}
@@ -49,6 +49,7 @@
  .copyright{background-color:#1a252f}a{color:#167997}
  a:active,a:focus,a:hover{color:#2cc4f3}.btn{border-width:2px}
  .bg-primary{background-color:#ddf3f9!important}
+ .bg-primary-menu{background-color:#2cc4f3!important}
  .bg-secondary{background-color:#167997!important}
  .text-primary{color:#ddf3f9!important}
  .text-secondary{color:#424143!important}
@@ -56,4 +57,4 @@
  .btn-primary:active,.btn-primary:focus,.btn-primary:hover{background-color:#2cc4f3;border-color:#2cc4f3}
  .btn-secondary{background-color:#167997;border-color:#167997}
  .btn-secondary:active,.btn-secondary:focus,.btn-secondary:hover{background-color:#424143;border-color:#424143}
- .flags {margin: 10px}
+ .flags {margin: 1rem}
